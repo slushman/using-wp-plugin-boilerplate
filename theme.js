@@ -12,11 +12,6 @@ const customTheme = {
   pre: {
     fontSize: '0.4em !important',
   },
-  // Customize your presentation theme here.
-  //'radialGradient(#1b558c, #022b4e)'
-  // Read the docs for more info:
-  // https://github.com/jxnblk/mdx-deck/blob/master/docs/theming.md
-  // https://github.com/jxnblk/mdx-deck/blob/master/docs/themes.md
 }
 
 export const themes = [ syntaxHighlighterPrism, customTheme ];
